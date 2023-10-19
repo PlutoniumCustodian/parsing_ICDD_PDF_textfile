@@ -1,0 +1,45 @@
+Phase Info [00-035-1275] Mg2Al(OH)7 ● Magnesium Aluminum Hydroxide
+Name: Magnesium Aluminum Hydroxide
+Formula: Mg2Al(OH)7
+
+Powder Pattern (QM(B): Blank)
+Radiation: Cu (Kα1)
+λ: 1.54059 Å
+Filter: 
+Calibration: 
+2θ: 80.029°
+Lines: 14
+RIR: 
+Reference: Ketchik, S. et al., Inorg. Mater. (Engl. Transl.), v16 p1356 (1980)
+
+Unit Cell Data ( )
+Crystal System: Hexagonal
+S.G: R-3m (166)
+Z: 
+P.S: hR
+Lattice Constants: 3.0480, 3.0480, 22.9000 (Å) <90.00°, 90.00°, 120.00°>
+Volume: 184.25
+Density: 
+Mwt: 194.64
+F(14): 7.6 (0.0661,28/0)
+Reference: Foris, C., Private Communication
+
+ANX: AB2X7. Reason O Quality Was Assigned: O assigned because average Δ2θ is 0.155 and poor fit of reflections to cell. Sample Preparation: Prepared by depositing ''Mg ( O H )2'' on freshly prepared ''Al ( O H )3'' with ''Mg O'' content more than 40 mole %. Warning: Not enough reflections above the intensity cut off to meet higher quality mark criteria.
+
+#	Angle	d(Å)	I%(f)	( h k l)	θ(°)	1/(2d)	2π/d
+1	11.5581	7.65000	100.0	( 0 0 3)	5.7790	0.06536	0.82133
+2	23.2790	3.81800	50.0	( 0 0 6)	11.6395	0.13096	1.64568
+3	34.7706	2.57800	50.0	( 0 1 2)	17.3853	0.19395	2.43723
+4	39.2764	2.29200	30.0	( 0 1 5)	19.6382	0.21815	2.74136
+5	46.7634	1.94100	80.0	( 0 1 8)	23.3817	0.25760	3.23709
+6	52.9456	1.72800	15.0	(1,0,10)	26.4728	0.28935	3.63610
+7	56.3653	1.63100	10.0	(0,1,11)	28.1827	0.30656	3.85235
+8	60.5021	1.52900	60.0	(0,0,15)	30.2511	0.32701	4.10934
+9	62.0280	1.49500	60.0	( 1 1 3)	31.0140	0.33445	4.20280
+10	63.6381	1.46100	10.0	(1,0,13)	31.8190	0.34223	4.30061
+11	66.0170	1.41400	15.0	( 1 1 6)	33.0085	0.35361	4.44355
+12	71.9051	1.31200	7.0	( 2 0 2)	35.9526	0.38110	4.78901
+13	74.8162	1.26800	15.0	( 2 0 5)	37.4081	0.39432	4.95519
+14	80.0294	1.19800	7.0	( 2 0 8)	40.0147	0.41736	5.24473
+
+♣ λ(2θ) = 1.54059Å (Cu)

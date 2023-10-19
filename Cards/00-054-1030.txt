@@ -1,0 +1,39 @@
+Phase Info [00-054-1030] Mg6Al2(CO3)(OH)16·4H2O ● Magnesium Aluminum Carbonate...
+Name: Magnesium Aluminum Carbonate Hydroxide Hydrate
+Formula: Mg6Al2(CO3)(OH)16·4H2O
+
+Powder Pattern (QM(O): Doubtful, Diffractometer)
+Radiation: CuKα 
+λ: 1.5418 Å
+Filter: 
+Calibration: 
+2θ: 62.259°
+Lines: 8
+RIR: 
+Reference: Newman, S., Jones, W., O`Connor, P., Stamires, D., J. Mater. Chem., v12 p153 (2002)
+
+Unit Cell Data (Powder Diffraction)
+Crystal System: Hexagonal
+S.G: R-3m (166)
+Z: 0.37
+P.S: hR6.9
+Lattice Constants: 3.0380, 3.0380, 22.4460 (Å) <90.00°, 90.00°, 120.00°>
+Volume: 179.41
+Density: 2.068
+Mwt: 603.97
+F(8): 4.1 (0.1313,15/0)
+Reference: Ibid.
+
+General Comments: Hydrotalcite-like phase ''Mg'':''Al''~2.6. Polymorphism: 3R1 polytype, hydrotalcite-like. Sample Preparation: A 20 wt.% slurry of ''Mg O'' and flash-calcined gibbsite in water (''Mg'':''Al''=2.0) was heated for 24 hours at 70 C and atmospheric pressure. Warning: Lines with abs(delta 2Theta)>0.2 DEG.
+
+#	Angle	d(Å)	I%(f)	( h k l)	θ(°)	1/(2d)	2π/d
+1	11.8631	7.45400	100.0	( 0 0 3)	5.9315	0.06708	0.84293
+2	23.6305	3.76200	36.0	( 0 0 6)	11.8153	0.13291	1.67017
+3	35.0937	2.55500	27.0	( 0 1 2)	17.5468	0.19569	2.45917
+4	39.6184	2.27300	21.0	( 0 1 5)	19.8092	0.21997	2.76427
+5	47.0201	1.93100	33.0	( 0 1 8)	23.5101	0.25893	3.25385
+6	53.2780	1.71800	9.0	(1,0,10)	26.6390	0.29104	3.65727
+7	60.9426	1.51900	12.0	( 1 1 0)	30.4713	0.32916	4.13640
+8	62.2593	1.49000	12.0	( 1 1 3)	31.1297	0.33557	4.21690
+
+♣ λ(2θ) = 1.54059Å (Cu)

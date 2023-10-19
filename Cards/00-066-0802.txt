@@ -1,0 +1,46 @@
+Phase Info [00-066-0802] Mg0.667Al0.33(OH)2(CO3)0.166·0... ● Magnesium Aluminum Hydroxide...
+Name: Magnesium Aluminum Hydroxide Carbonate Hydrate
+Formula: Mg0.667Al0.33(OH)2(CO3)0.166·0.5H2O
+
+Powder Pattern (QM(S): Star, Diffractometer)
+Radiation: CuKα1
+λ: 1.54056 Å
+Filter: 
+Calibration: 
+2θ: 67.927°
+Lines: 15
+RIR: 2.96
+Reference: Shivaramaiah, R., Peter A. Rock Thermochemistry Laboratory and NEAT ORU, Univ. of California Davis, CA, USA., Private Communication (2015)
+
+Unit Cell Data ( )
+Crystal System: Hexagonal
+S.G: R-3m (166)
+Z: 3
+P.S: hR7.2
+Lattice Constants: 3.0413, 3.0413, 22.6560 (Å) <90.00°, 90.00°, 120.00°>
+Volume: 181.48
+Density: 2.144
+Mwt: 78.10
+F(15): 999.9 (0.0001,18/0)
+Reference: Shivaramaiah, R., Navrotsky, A., Inorg. Chem., v54 #7 p3253 (2015)
+
+General Comments: Anionic clay. Processing Information: Le Bail refinement. Physical property: BET surface area=30 m2/g. Sample Preparation: Prepared via urea hydrolysis by mixing magnesium/aluminum nitrate and urea and heat treating at 363 K (90°C) for 24 hours. The resulting solution was washed with water and dried at 333 K (60°C). Raw Data Comment: The pattern was corrected for a systematic 2θ error. Reflections with intensities <0.01% have been omitted. Structures: Layered double hydroxide.
+
+#	Angle	d(Å)	I%(f)	( h k l)	θ(°)	1/(2d)	2π/d
+1	11.7086	7.55200	100.0	( 0 0 3)	5.8543	0.06621	0.83199
+2	23.5417	3.77600	62.9	( 0 0 6)	11.7708	0.13242	1.66398
+3	34.2468	2.61622	3.5	( 1 0 1)	17.1234	0.19112	2.40163
+4	34.9467	2.56541	65.6	( 0 1 2)	17.4733	0.19490	2.44919
+5	35.6363	2.51733	4.2	( 0 0 9)	17.8182	0.19862	2.49597
+6	37.6326	2.38825	0.6	( 1 0 4)	18.8163	0.20936	2.63087
+7	39.5441	2.27710	61.4	( 0 1 5)	19.7721	0.21958	2.75929
+8	47.0806	1.92866	52.3	( 0 1 8)	23.5403	0.25925	3.25780
+9	53.2917	1.71759	16.5	(1,0,10)	26.6458	0.29111	3.65814
+10	56.6887	1.62246	11.2	(0,1,11)	28.3444	0.30817	3.87263
+11	60.8695	1.52065	27.6	( 1 1 0)	30.4347	0.32881	4.13191
+12	62.2254	1.49073	26.9	( 1 1 3)	31.1127	0.33541	4.21484
+13	64.0098	1.45341	10.5	(1,0,13)	32.0049	0.34402	4.32307
+14	66.1986	1.41056	8.6	( 1 1 6)	33.0993	0.35447	4.45439
+15	67.9267	1.37882	3.7	(0,1,14)	33.9634	0.36263	4.55693
+
+♣ λ(2θ) = 1.54059Å (Cu)
